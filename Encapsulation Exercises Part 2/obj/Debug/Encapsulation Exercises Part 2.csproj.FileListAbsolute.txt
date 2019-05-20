@@ -1,0 +1,7 @@
+\\FS\STUDENT$\30006128\Desktop\Encapsulation Exercises\Encapsulation Exercises Part 2\bin\Debug\Encapsulation Exercises Part 2.exe.config
+\\FS\STUDENT$\30006128\Desktop\Encapsulation Exercises\Encapsulation Exercises Part 2\bin\Debug\Encapsulation Exercises Part 2.exe
+\\FS\STUDENT$\30006128\Desktop\Encapsulation Exercises\Encapsulation Exercises Part 2\bin\Debug\Encapsulation Exercises Part 2.pdb
+\\FS\STUDENT$\30006128\Desktop\Encapsulation Exercises\Encapsulation Exercises Part 2\obj\Debug\Encapsulation Exercises Part 2.csprojAssemblyReference.cache
+\\FS\STUDENT$\30006128\Desktop\Encapsulation Exercises\Encapsulation Exercises Part 2\obj\Debug\Encapsulation Exercises Part 2.csproj.CoreCompileInputs.cache
+\\FS\STUDENT$\30006128\Desktop\Encapsulation Exercises\Encapsulation Exercises Part 2\obj\Debug\Encapsulation Exercises Part 2.exe
+\\FS\STUDENT$\30006128\Desktop\Encapsulation Exercises\Encapsulation Exercises Part 2\obj\Debug\Encapsulation Exercises Part 2.pdb

@@ -1,0 +1,7 @@
+C:\Users\30006128\Desktop\Encapsulation Exercises Part 1\Encapsulation Exercises Part 1\bin\Debug\Encapsulation Exercises Part 1.exe.config
+C:\Users\30006128\Desktop\Encapsulation Exercises Part 1\Encapsulation Exercises Part 1\bin\Debug\Encapsulation Exercises Part 1.exe
+C:\Users\30006128\Desktop\Encapsulation Exercises Part 1\Encapsulation Exercises Part 1\bin\Debug\Encapsulation Exercises Part 1.pdb
+C:\Users\30006128\Desktop\Encapsulation Exercises Part 1\Encapsulation Exercises Part 1\obj\Debug\Encapsulation Exercises Part 1.csprojAssemblyReference.cache
+C:\Users\30006128\Desktop\Encapsulation Exercises Part 1\Encapsulation Exercises Part 1\obj\Debug\Encapsulation Exercises Part 1.csproj.CoreCompileInputs.cache
+C:\Users\30006128\Desktop\Encapsulation Exercises Part 1\Encapsulation Exercises Part 1\obj\Debug\Encapsulation Exercises Part 1.exe
+C:\Users\30006128\Desktop\Encapsulation Exercises Part 1\Encapsulation Exercises Part 1\obj\Debug\Encapsulation Exercises Part 1.pdb
